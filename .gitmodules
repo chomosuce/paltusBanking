@@ -4,5 +4,5 @@
 	branch = main
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Igor0006/pBanking.git
+	url = https://github.com/chomosuce/pBanking.git
 	branch = main
