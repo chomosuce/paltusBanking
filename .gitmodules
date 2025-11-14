@@ -4,5 +4,9 @@
 	branch = main
 [submodule "backend"]
 	path = backend
-	url = https://github.com/chomosuce/pBanking.git
+	url = https://github.com/chomosuce/pBanking-backend.git
+	branch = main
+[submodule "classifier"]
+	path = classifier
+	url = https://github.com/chomosuce/pBanking-classifierService.git
 	branch = main
